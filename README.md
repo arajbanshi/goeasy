@@ -13,4 +13,10 @@ This is an api application that returns metrics for commuting between 2 NYC boro
 7. if you want to use datafactory, run the ARM template first to create the datafactory and the pipelines.
 8. Update the connection string in appsetting.json
 9. run the application.
-  
+10. Once the application is running, you can test it using tools like postman or the following powershell script.
+    Invoke-WebRequest -Uri "https://localhost:44381/api/FhvTripDatas?from=20&to=81&date=" -Method POST
+ 
+TODO:
+1. setup CI/CD pipeline so that scripts can't be accidentally changed for the production build.
+2. make the stored procedure calls using EF Core instead of ADO apis.
+3. write unit tests.
