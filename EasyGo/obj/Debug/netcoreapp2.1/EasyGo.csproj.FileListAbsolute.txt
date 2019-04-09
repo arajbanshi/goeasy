@@ -1,0 +1,14 @@
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\bin\Debug\netcoreapp2.1\EasyGo.deps.json
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\bin\Debug\netcoreapp2.1\EasyGo.runtimeconfig.json
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\bin\Debug\netcoreapp2.1\EasyGo.runtimeconfig.dev.json
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\bin\Debug\netcoreapp2.1\EasyGo.dll
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\obj\Debug\netcoreapp2.1\EasyGo.csprojAssemblyReference.cache
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\obj\Debug\netcoreapp2.1\EasyGo.csproj.CoreCompileInputs.cache
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\obj\Debug\netcoreapp2.1\EasyGo.RazorAssemblyInfo.cache
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\obj\Debug\netcoreapp2.1\EasyGo.RazorAssemblyInfo.cs
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\obj\Debug\netcoreapp2.1\EasyGo.AssemblyInfoInputs.cache
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\obj\Debug\netcoreapp2.1\EasyGo.AssemblyInfo.cs
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\obj\Debug\netcoreapp2.1\EasyGo.RazorTargetAssemblyInfo.cache
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\bin\Debug\netcoreapp2.1\EasyGo.pdb
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\obj\Debug\netcoreapp2.1\EasyGo.dll
+C:\Users\arajbanshi\Documents\Cloud\Misc\EasyGo\EasyGo\obj\Debug\netcoreapp2.1\EasyGo.pdb
